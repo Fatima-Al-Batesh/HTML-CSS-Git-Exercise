@@ -7,6 +7,6 @@
   font-size: 12;
   text-align: center;
 }
-.message__content:last-child {
+.message:last-child {
   box-shadow: 4px 4px 0 #dba944;
 }
